@@ -1,4 +1,4 @@
 👋hi, I’m Ian
 
-[this](njari.dev)🪁 is my home
+[this](https://www.njari.dev/)🪁 is my home
 
