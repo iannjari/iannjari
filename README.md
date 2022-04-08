@@ -1,4 +1,4 @@
-hi, I’m Ian
+👋hi, I’m Ian
 
-njari.dev is my home
+[this](njari.dev)🪁 is my home
 
