@@ -2,5 +2,5 @@
 
 [this](https://www.njari.dev/)🪁 is my home
 
-![Header](./github-header-image-name.png)
+![Header](./github-header-image.png)
 
